@@ -1,13 +1,17 @@
 # Toolkit
 
-VS
+VS Extensions: Live server, Prettier
+Theme: Dark+
 
+https://reactjs.org
 
+https://app.netlify.com/
 
+https://unsplash.com/
 
+https://fontawesome.com/
 
-
-
+https://web.postman.co/
 
 
 This is a summary of all the configurations and the tools that I use:
